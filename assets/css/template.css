@@ -131,12 +131,13 @@ header .header-left a{
     margin: 0;
     color: rgb(190, 153, 85);
     margin-bottom: 30px;
+    text-shadow: 2px 5px 10px #202020;
 
 }
 .banner span{
     font-size: 25px;
     border-bottom: 1px solid rgb(190, 153, 85);
-    text-shadow: 0px 0px 1px rgb(34, 34, 34);
+    text-shadow: 2px 5px 10px rgb(206, 152, 54);
 
 }
 /*.banner-imagens img{
